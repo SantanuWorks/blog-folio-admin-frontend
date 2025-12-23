@@ -1,0 +1,6 @@
+{
+  "dashboard": {
+    "welcome": "Welcome to the Admin Dashboard",
+    "logout": "Logout"
+  }
+}
